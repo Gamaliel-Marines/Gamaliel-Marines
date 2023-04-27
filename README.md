@@ -1,9 +1,5 @@
-### Hi there 👋
+### Hello there 👋
 
-
-**Gamaliel-Marines/Gamaliel-Marines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 # 💫 About Me:
 -  I’m currently working on Web development <br>-  I’m currently deepening my knowledge in c++<br>-  I’m looking to collaborate on ...<br>-  I’m looking for help with ...<br>- 📫 How to reach me: <br>
