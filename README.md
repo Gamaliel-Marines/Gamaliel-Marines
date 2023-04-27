@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 
-# 💫 About Me:
+# About Me:
 -  I’m currently working on Web development <br>-  I’m currently deepening my knowledge in c++<br>-  I’m looking to collaborate on ...<br>-  I’m looking for help with ...<br>- 📫 How to reach me: <br>
 
 
