@@ -1,7 +1,13 @@
 ### "Hello there" - Obiwan kenobi
 
 # About Me:
--  I’m currently working on Web development <br>-  I’m currently deepening my knowledge in c++ and web development<br>-  I’m looking to collaborate on ...<br>-  I’m looking for help with ...<br>- How to reach me: gamamarines@hotmail.com +52 4425226424<br>
+- I'm studying computer science at Instituto Tecnológico y de Estudios Superiores de Monterrey, Campus Queretaro<br>
+- I'm always trying to improve and learn new stuff<br>
+- I like being challenged<br>
+-  I’m currently working on Web development <br>
+-  I’m currently deepening my knowledge in c++ and web development<br>
+-  You can reach to me via mail: gamamarines@hotmail.com 
+-  And via WhatsApp: +52 4425226424<br>
 
 
 ## 🌐 Socials:
