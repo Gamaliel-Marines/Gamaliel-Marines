@@ -1,11 +1,12 @@
 ### "Hello there" - Obiwan kenobi
 
 # About Me:
-I am currently pursuing a degree in Computer Science from the prestigious Instituto Tecnológico y de Estudios Superiores de Monterrey, Campus Queretaro. I have a strong desire to constantly improve and expand my knowledge in this field, and I thrive when presented with new challenges.<br>
-
-Currently, I am focusing on web development and am working on enhancing my skills in this area. In addition, I am also actively deepening my knowledge of C++, which I believe is a crucial aspect of software engineering.<br>
-
-I am always open to new opportunities and collaborations in the field of computer science. If you would like to get in touch with me, please feel free to email me at gamamarines@hotmail.com or reach me via WhatsApp at +52 4425226424.<br>
+-I am currently pursuing a degree in Computer Science at Instituto Tecnológico y de Estudios Superiores de Monterrey, Campus Queretaro.<br> 
+-I have a strong desire to constantly improve and expand my knowledge in this field, and I thrive when presented with new challenges.<br>
+-Currently, I am focusing on web development and am working on enhancing my skills in this area.<br>
+-I am also actively deepening my knowledge of C++.<br><br>
+I am always open to new opportunities and collaborations.<br>
+If you would like to get in touch with me, please feel free to email me at gamamarines@hotmail.com or reach me via WhatsApp at +52 4425226424.<br>
 
 
 ## 🌐 Socials:
