@@ -6,7 +6,7 @@
 - Currently, I am focusing on web development and am working on enhancing my skills in this area.<br>
 - I am also actively deepening my knowledge of C++.<br><br>
 I am always open to new opportunities and collaborations.<br>
-If you would like to get in touch with me, please feel free to reach me via email me at gamamarines@hotmail.com .<br>
+If you would like to get in touch with me, please feel free to reach me via email me at gamamarines@hotmail.com or gamaliel_projects@hotmail.com.<br>
 
 
 ## 🌐 Socials:
