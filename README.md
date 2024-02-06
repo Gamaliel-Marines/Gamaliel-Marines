@@ -8,6 +8,8 @@
 I am always open to new opportunities and collaborations.<br>
 If you would like to get in touch with me, please feel free to reach me via email me at gamamarines@hotmail.com or gamaliel_projects@hotmail.com.<br>
 
+You can also check my LinkedIn profile: www.linkedin.com/in/gamaliel-marines
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gama.mo) 
