@@ -1,7 +1,7 @@
 ### "Hello there" - Obiwan kenobi
 
 # About Me:
---
+
 I am a dedicated computer science student with a strong passion for continuous learning, adept problem-solving skills, and a keen interest in tackling new challenges. I have a strong commitment to understand and master concepts, a proactive approach to research, and enthusiasm for new opportunities. My aim is to evolve as a software engineer by gaining valuable work experience and consistently enhance my skills to excel in what I love to do.
 
 --
